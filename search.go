@@ -1,4 +1,4 @@
-package main
+package search
 
 //dfs矩阵
 func exist(board [][]byte, word string) bool {
